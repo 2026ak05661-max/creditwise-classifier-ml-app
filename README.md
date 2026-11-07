@@ -37,9 +37,9 @@ Five classification models are trained on the same dataset and compared on six e
 
 ## c. GitHub repository link
 
-**Repository:** https://github.com/<your-username>/<your-repo-name>
+**Repository:** [https://github.com/<your-username>/<your-repo-name>](https://github.com/2026ak05661-max/creditwise-classifier-ml-app)
 
-**Live Streamlit app:** https://<your-app-name>.streamlit.app
+**Live Streamlit app:** [https://<your-app-name>.streamlit.app](https://2026ak05661-max-creditwise-classifier-ml-app-app-9i2wco.streamlit.app/)
 
 ```
 project-folder/
